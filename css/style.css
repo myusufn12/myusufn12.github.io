@@ -311,14 +311,18 @@ footer {
   background-color: #050505;
 }
 footer .r-icon a {
+  color: #fff;
+  display: inline-block;
+  height: 42px;
+  width: 42px;
   font-size: 20px;
-  color: white;
-  padding: 6px 10px;
-  border: 1px solid white;
   border-radius: 50%;
+  border: 2px solid #d4d4d4;
+  line-height: 40px;
+  transition: 0.5s all;
+  text-align: center;
 }
 footer .r-icon a:hover {
-  border: 1px solid #f71414;
   color: #f71414;
   transition: 0.5s all;
 }
