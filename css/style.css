@@ -310,6 +310,13 @@ header {
   text-align: center;
 }
 
+.contact .WA {
+  text-decoration: none;
+}
+
+.contact .WA:hover {
+  color: #f71414;
+}
 /* footer */
 footer {
   height: 150px;
